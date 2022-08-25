@@ -1,7 +1,7 @@
 ## ---
 ## author:"[Juliette PAIREAU](juliette.paireau@pasteur.fr)"
-##        "[Anne FOUILLET] (ANNE.FOUILLET@santepuliquefrance.fr)"
-##        "[Christophe BONALDI](Christophe.BONALDI@santepuliquefrance.fr)"
+##        "[Anne FOUILLET] (ANNE.FOUILLET@santepubliquefrance.fr)"
+##        "[Christophe BONALDI](Christophe.BONALDI@santepubliquefrance.fr)"
 ## date:  2020-11-16
 ## Last modification: 2020-
 ## R version 4.1.1 (2021-08-10)
