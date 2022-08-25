@@ -1,13 +1,13 @@
 ## ---
-## author: "[Christophe BONALDI](Christophe.BONALDI@santepuliquefrance.fr)"
+## author: "[Christophe BONALDI](Christophe.BONALDI@santepubliquefrance.fr)"
 ## date:  2020-11-16
 ## source:
 ## Last modification: 2022-03-09
 ## R version 4.1.1 (2021-08-10)
 ## ---
 ##  Description: 
-##  R script for the paper : "Near-real time monitoring of the reproductive 
-##  number of COVID-19 in France: estimates compared from 3 datasets"
+##  R script for the paper : " Monitoring the reproductive number of 
+##  COVID-19 in France: Comparative estimates from three datasets"
 ## ---
 
 ## Useful library ----
